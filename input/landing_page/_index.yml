@@ -1,0 +1,6 @@
+- name: TC-FHIR-AG-Messaging-R4
+- version: 0.1.0
+- description: FHIR&reg; R4 Implementation Guide for directed messaging using FHIR&reg; in Austria.
+- last_published: %%date%%
+- branch: %%branch%%
+- type: draft
