@@ -64,6 +64,7 @@ Usage: #inline
 Instance: CommunicationRequestExample
 InstanceOf: CommunicationRequest
 Title: "CommunicationRequest for a consultation document"
+Description: "Plain Text communication request for a consult document."
 Usage: #example
 * id = "c7090292-dc27-4d90-a500-7e4110217947"
 * meta.profile = Canonical(ATMessagingCommunicationRequest)

@@ -69,6 +69,7 @@ Usage: #inline
 Instance: CommunicationExample
 InstanceOf: Communication
 Title: "Communication Example"
+Description: "Plain text message that kindly rejects a previous communication request."
 Usage: #example
 * id = "08327a3a-1f52-4ec0-9b90-ac17fd6e06b2"
 * meta.profile = Canonical(ATMessagingCommunication)

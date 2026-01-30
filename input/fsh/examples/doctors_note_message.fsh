@@ -38,6 +38,7 @@ Usage: #example
 Instance: AdHocDocumentMessageHeaderExample
 InstanceOf: MessageHeader
 Title: "MessageHeader of an ad-hoc message sending a document."
+Description: "Message header for sending a doctor's note document from a HIS to a GP software without prior request."
 Usage: #example
 * id = "89c89a84-bce7-4c5d-b6f6-49690eea5b06"
 * meta.profile = Canonical(ATMessagingMessageHeader)

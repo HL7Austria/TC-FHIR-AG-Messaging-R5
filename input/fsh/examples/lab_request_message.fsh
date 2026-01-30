@@ -55,7 +55,8 @@ Usage: #inline
 
 Instance: ServiceRequestExample
 InstanceOf: ServiceRequest
-Title: "ServiceRequest for a lab"
+Title: "Lab ServiceRequest"
+Description: "Service Request for a Blood Test."
 Usage: #example
 * id = "81fd7dbf-5207-4bc5-b7df-89e97dcbbb79"
 * status = #active

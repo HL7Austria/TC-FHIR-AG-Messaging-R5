@@ -12,5 +12,5 @@ Description: "MessageBundle to be used for all messages transfered with the AT F
 
 Invariant: uuid-only
 Description: "fullUrl must be a valid UUID"
-Expression: "fullUrl.matches('urn:uuid:[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}')"
+Expression: "value.matches('^urn:uuid:[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$')"
 Severity: #error
