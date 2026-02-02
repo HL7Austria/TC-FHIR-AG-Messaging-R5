@@ -50,7 +50,7 @@ Usage: #inline
   * contact
     * system = #email
     * value = "info@lablims.com"
-* focus[+] = Reference(LabTaskExample)
+* focus[+] = Reference(urn:uuid:1060eb80-e952-4ad8-82a1-78209fc5ab61)
 * definition = Canonical(ATMessagingServiceStatusMessageDefinition)
 * sender = Reference(urn:uuid:b024548e-7baa-44e7-8862-0246bd96cf4b)
 * author = Reference(urn:uuid:b024548e-7baa-44e7-8862-0246bd96cf4b)

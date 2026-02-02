@@ -56,7 +56,7 @@ Usage: #inline
   * contact
     * system = #email
     * value = "kis.support@softwarecorp.at"
-* focus[+] = Reference(CommunicationExample)
+* focus[+] = Reference(urn:uuid:08327a3a-1f52-4ec0-9b90-ac17fd6e06b2)
 * definition = Canonical(ATMessagingCommunicationMessageDefinition)
 * sender = Reference(urn:uuid:f9ac6aa5-71b6-438b-a33b-b0b114d9deca)
 * author = Reference(urn:uuid:f9ac6aa5-71b6-438b-a33b-b0b114d9deca)

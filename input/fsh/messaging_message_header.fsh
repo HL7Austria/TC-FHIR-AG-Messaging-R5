@@ -3,7 +3,6 @@ Parent: MessageHeader
 Id: at-messaging-message-header
 Title: "AT Messaging Message Header"
 Description: "MessageHeader to be used for all messages transfered with the AT FHIR messaging."
-* ^status = #draft
 * id 1..1
 * event[x] only Coding
 * eventCoding.code 1..1 MS
