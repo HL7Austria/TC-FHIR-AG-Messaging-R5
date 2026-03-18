@@ -5,7 +5,7 @@ Title: "AT Messaging Endpoint"
 Description: "Endpoint for use in the Messaging systems for AT FHIR messaging."
 * connectionType 1..1
 * connectionType from ATMessagingEndpointTypeVS (preferred)
-* address MS
+* insert ShouldSendObligation(address)
 
 CodeSystem: ATMessagingEndpointType
 Id: at-messaging-endpoint-type
