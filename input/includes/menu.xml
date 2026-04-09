@@ -1,17 +1,17 @@
 <ul xmlns="http://www.w3.org/1999/xhtml" class="nav navbar-nav">
-  <li><a href="index.html">IG Home</a></li>  
+  <li><a href="index.html">Home</a></li>  
   <li><a href="toc.html">Table of Contents</a></li>
   <li class="dropdown">
     <a data-toggle="dropdown" href="#" class="dropdown-toggle">Introduction<b class="caret"> </b></a>
     <ul class="dropdown-menu">
       <li>
-        <a target="_blank" href="scope.html">Scope and content<img src="external.png" style="text-align: baseline"/></a>
+        <a href="scope.html">Scope and content</a>
       </li>
       <li>
-        <a target="_blank" href="background.html">Background<img src="external.png" style="text-align: baseline"/></a>
+        <a href="background.html">Background</a>
       </li>
       <li>
-        <a target="_blank" href="challenges.html">Challenges<img src="external.png" style="text-align: baseline"/></a>
+        <a href="challenges.html">Challenges</a>
       </li>
     </ul>
   </li>
