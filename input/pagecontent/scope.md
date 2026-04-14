@@ -3,10 +3,11 @@
     --heading-prefix: none;
   }
 </style>
-Dieser Abschnitt gibt einen Überblick über die Struktur des Implementation Guides und dient als Orientierungshilfe zum schnellen Auffinden relevanter Informationen.  
+This section provides an overview of the structure of the Implementation Guide and serves as a guide to help you quickly find relevant information.
 
 ### Aufbau des IG
 Im Folgenden wird beschrieben, welche Bereiche im Menü des IG zu finden sind und welchen Zweck sie jeweils erfüllen.
+
 
 #### Introduction
 The “Introduction” menu item consists of the following subsections:
