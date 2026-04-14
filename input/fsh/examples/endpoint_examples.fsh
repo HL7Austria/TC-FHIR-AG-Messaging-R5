@@ -24,3 +24,12 @@ Usage: #inline
 * status = #active
 * connectionType = ATMessagingEndpointType#matrix
 * address = "@vienna:externallab.at"
+
+Instance: HospitalFeedbackEndpointExample
+InstanceOf: Endpoint
+Usage: #inline
+* id = "71998612-308f-4062-8d7e-318c1b1ab1cc"
+* meta.profile = Canonical(ATMessagingEndpoint)
+* status = #active
+* connectionType = ATMessagingEndpointType#matrix
+* address = "@feedback:standort.krankenhaus.example.at"
